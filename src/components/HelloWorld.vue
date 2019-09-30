@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    This the start of the app
+    Raul Salvo
   </div>
 </template>
 
