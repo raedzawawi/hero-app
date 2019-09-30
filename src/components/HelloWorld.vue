@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    Raul Salvo
+    Raul Salva
   </div>
 </template>
 
