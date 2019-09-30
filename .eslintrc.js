@@ -28,8 +28,10 @@ module.exports = {
     // don't require .vue extension when importing
     'import/extensions': ['error', 'always', {
       js: 'never',
-      vue: 'never'
+      vue: 'never',
+      strict: 'off'
     }],
+    'import/first': [ 'error', 'DISABLE-absolute-first' ],
     // disallow reassignment of function parameters
     // disallow parameter object manipulation except for specific exclusions
     'no-param-reassign': ['error', {
